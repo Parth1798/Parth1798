@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I am Parthkumar Makwana</h1>
-<h3 align="center">Student, MSc. Agriculture Analytics<h3>
+<h3 align="center">Data Scientist<h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 
